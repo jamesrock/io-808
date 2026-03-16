@@ -44,3 +44,5 @@ In order to meet my personal deadline of 8/08 for my initial release I had to sk
 - Adding triggers via the `TAP` button
 
 I'll be continuously working on these features as well as improving the synthesis of each sound to greater match the sounds of the original hardware.
+
+bob
